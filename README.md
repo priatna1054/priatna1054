@@ -1,6 +1,6 @@
 # Halo semua! 
 Perkenalkan nama saya **I Wayan Priatna**.\
-Saya seorang **Newbie** di [GitHub](https://github.com/priatna1054).\
+Saya seorang **Newbie** di [GitHub](https://github.com/priatna1054).
  
 <p align="left">
 <a href="https://github.com/priatna1054">
